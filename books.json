@@ -1,0 +1,37 @@
+[
+    {
+        "Title": "Atomic Habits",
+        "Author": "James Clear",
+        "Genre": "Self-help",
+        "Year": 2018,
+        "Status": "Read"
+    },
+    {
+        "Title": "The Alchemist",
+        "Author": "Paulo Coelho",
+        "Genre": "Fiction",
+        "Year": 1988,
+        "Status": "Unread"
+    },
+    {
+        "Title": "Sapiens",
+        "Author": "Yuval Noah Harari",
+        "Genre": "History",
+        "Year": 2011,
+        "Status": "Read"
+    },
+    {
+        "Title": "Deep Work",
+        "Author": "Cal Newport",
+        "Genre": "Productivity",
+        "Year": 2016,
+        "Status": "Read"
+    },
+    {
+        "Title": "Ikigai",
+        "Author": "H\u00c3\u00a9ctor Garc\u00c3\u00ada",
+        "Genre": "Philosophy",
+        "Year": 2016,
+        "Status": "Read"
+    }
+]

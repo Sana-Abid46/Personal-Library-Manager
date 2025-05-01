@@ -1,0 +1,58 @@
+[
+    {
+        "title": "Seerat-e-Mustafa ﷺ",
+        "author": "Maulana Abdul Mustafa A'zami",
+        "year": 2020,
+        "genre": "Islamic Biography",
+        "read": false,
+        "description": "Rasoolullah ﷺ ki zindagi ke mukammal pehluon par tahqiqi aur ilm se bharpur kitaab."
+    },
+    {
+        "title": "Jaan-e-Rehmat ﷺ",
+        "author": "Mufti Muhammad Qasim Attari",
+        "year": 2020,
+        "genre": "Islamic Biography",
+        "read": false,
+        "description": "Pyare Nabi ﷺ ki rehmat aur unke mu'jizat par dilchasp bayanaat ka majmua."
+    },
+    {
+        "title": "Ghaus-e-Azam ka Ishq-e-Rasool ﷺ",
+        "author": "Allama Abul Hafs Sayyid Muhammad Uwais Qadri",
+        "year": 2020,
+        "genre": "Islamic Spirituality",
+        "read": false,
+        "description": "Hazrat Abdul Qadir Jilani رحمۃ اللہ علیہ ka Rasool ﷺ se muhabbat ka roohani izhar."
+    },
+    {
+        "title": "Faizan-e-Khalilullah (Hazrat Ibrahim علیہ السلام)",
+        "author": "Mufti Abu Muhammad Aslam Raza Attari",
+        "year": 2020,
+        "genre": "Islamic Biography",
+        "read": false,
+        "description": "Seerat-e-Ibrahimi aur unki duaaon ka ilm se bharpur zikr."
+    },
+    {
+        "title": "Faizan-e-Hazrat Khadija tul Kubra رضی اللہ عنہا",
+        "author": "Maulana Abu Majid Muhammad Shahid Attari",
+        "year": 2020,
+        "genre": "Islamic Biography",
+        "read": false,
+        "description": "Ummahat-ul-Momineen mein sab se pehli, Hazrat Khadija رضی اللہ عنہا ki zindagi aur Rasool ﷺ ke sath unka aham kirdar."
+    },
+    {
+        "title": "Faizan-e-Tayyaba ﷺ",
+        "author": "Maulana Abu Faizan Muhammad Hammad Attari",
+        "year": 2020,
+        "genre": "Islamic Spirituality",
+        "read": false,
+        "description": "Nabi Pak ﷺ ke naam ki azmat aur roohani asraat."
+    },
+    {
+        "title": "jaan-e-rehmat",
+        "author": "mufti muhammad qasim attari",
+        "year": 4,
+        "genre": "",
+        "description": "",
+        "read": true
+    }
+]
